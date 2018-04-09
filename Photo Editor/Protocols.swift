@@ -13,7 +13,7 @@ import UIKit
  - didSelectImage
  - stickersViewDidDisappear
  */
-
+@objc(PhotoEditorDelegate)
 public protocol PhotoEditorDelegate {
     /**
      - Parameter image: edited Image
