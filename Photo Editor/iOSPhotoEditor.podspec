@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/ViterbiDevelopment/photo-editor.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { "ViterbiDevelopment" => "wangchaonihao@163.com" }
-  s.source           = { :git => 'https://github.com/ViterbiDevelopment/photo-editor.git', :tag => '0.5' }
+  s.source           = { :git => 'https://github.com/ViterbiDevelopment/photo-editor.git', :tag => '1.0.0' }
  
   s.ios.deployment_target = '9.0'
   s.source_files = "Photo Editor/**/*.{swift}"
